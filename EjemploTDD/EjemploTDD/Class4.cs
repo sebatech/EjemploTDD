@@ -8,5 +8,6 @@ namespace EjemploTDD
 {
     class Class4
     {
+        public int edad { get; set; }
     }
 }
