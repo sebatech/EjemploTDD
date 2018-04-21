@@ -1,0 +1,5 @@
+C:\Users\Usuario\Documents\EjemploTDD\EjemploTDD\EjemploTDD\bin\Debug\EjemploTDD.dll
+C:\Users\Usuario\Documents\EjemploTDD\EjemploTDD\EjemploTDD\bin\Debug\EjemploTDD.pdb
+C:\Users\Usuario\Documents\EjemploTDD\EjemploTDD\EjemploTDD\obj\Debug\EjemploTDD.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\EjemploTDD\EjemploTDD\EjemploTDD\obj\Debug\EjemploTDD.dll
+C:\Users\Usuario\Documents\EjemploTDD\EjemploTDD\EjemploTDD\obj\Debug\EjemploTDD.pdb
